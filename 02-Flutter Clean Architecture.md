@@ -1,5 +1,9 @@
 # Flutter Clean Architecture
 
+Imágenes y texto cogido de: `https://www.youtube.com/watch?v=SmJB8cy8emU`
+
+Ver también: `https://github.com/JoseManuelMunozManzano/flutter-clean-architecture`
+
 ![alt Clean Architecture](./images/01-CleanArchitecture.png)
 
 En esta imagen vemos las capas de una arquitectura limpia como un cono, siendo la parte de abajo la capa de presentación (lo que ve el usuario) y la de arriba la parte de la data.
